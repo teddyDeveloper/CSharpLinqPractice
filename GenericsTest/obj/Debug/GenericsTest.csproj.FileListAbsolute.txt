@@ -1,0 +1,7 @@
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\bin\Debug\GenericsTest.exe.config
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\bin\Debug\GenericsTest.exe
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\bin\Debug\GenericsTest.pdb
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\obj\Debug\GenericsTest.csprojAssemblyReference.cache
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\obj\Debug\GenericsTest.csproj.CoreCompileInputs.cache
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\obj\Debug\GenericsTest.exe
+C:\Personal\DDD\Domain-Driven-Design-Example\GenericsTest\obj\Debug\GenericsTest.pdb

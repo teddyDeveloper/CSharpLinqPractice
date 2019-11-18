@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsTest", "GenericsTest\GenericsTest.csproj", "{5F55B58E-FD92-4B14-B28F-02C9600559FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExcerice", "LinqExcerice\LinqExcerice.csproj", "{C6000C2E-DD1E-4AE3-A818-E8626F4BE1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F55B58E-FD92-4B14-B28F-02C9600559FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F55B58E-FD92-4B14-B28F-02C9600559FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F55B58E-FD92-4B14-B28F-02C9600559FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F55B58E-FD92-4B14-B28F-02C9600559FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6000C2E-DD1E-4AE3-A818-E8626F4BE1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6000C2E-DD1E-4AE3-A818-E8626F4BE1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6000C2E-DD1E-4AE3-A818-E8626F4BE1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6000C2E-DD1E-4AE3-A818-E8626F4BE1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2613AB6-8C7D-4D7F-87EC-869A11015974}
+	EndGlobalSection
+EndGlobal
